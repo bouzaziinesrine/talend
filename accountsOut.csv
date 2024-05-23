@@ -1,0 +1,86 @@
+id,account,sector,year_established,revenue,employees,office_location,subsidiary_of
+1,Acme Corporation,technolgy,1996-01-01,1100.04,2822,United States,UNKNOWN
+2,Betasoloin,medical,1999-01-01,251.41,495,United States,UNKNOWN
+3,Betatech,medical,1986-01-01,647.18,1185,Kenya,UNKNOWN
+4,Bioholding,medical,2012-01-01,587.34,1356,Philipines,UNKNOWN
+5,Bioplex,medical,1991-01-01,326.82,1016,United States,UNKNOWN
+6,Blackzim,retail,2009-01-01,497.11,1588,United States,UNKNOWN
+7,Bluth Company,technolgy,1993-01-01,1242.32,3027,United States,Acme Corporation
+8,Bubba Gump,software,2002-01-01,987.39,2253,United States,UNKNOWN
+9,Cancity,retail,2001-01-01,718.62,2448,United States,UNKNOWN
+10,Cheers,entertainment,1993-01-01,4269.9,6472,United States,Massive Dynamic
+11,Codehow,software,1998-01-01,2714.9,2641,United States,Acme Corporation
+12,Condax,medical,2017-01-01,4.54,9,United States,UNKNOWN
+13,Conecom,technolgy,2005-01-01,1520.66,1806,United States,UNKNOWN
+14,Dalttechnology,software,2013-01-01,98.79,96,United States,Bubba Gump
+15,dambase,marketing,1995-01-01,2173.98,2928,United States,Inity
+16,Domzoom,entertainment,1998-01-01,217.87,551,United States,UNKNOWN
+17,Doncon,technolgy,2010-01-01,587.72,1501,United States,UNKNOWN
+18,Donquadtech,technolgy,1992-01-01,1712.68,3194,United States,Acme Corporation
+19,Dontechi,software,1982-01-01,4618.0,10083,United States,UNKNOWN
+20,Donware,marketing,1999-01-01,1197.44,2570,United States,UNKNOWN
+21,Fasehatice,retail,1990-01-01,4968.91,7523,United States,UNKNOWN
+22,Faxquote,telecommunications,1995-01-01,1825.82,5595,United States,Sonron
+23,Finhigh,finance,2006-01-01,1102.43,1759,United States,UNKNOWN
+24,Finjob,employment,1988-01-01,2059.9,3644,United States,UNKNOWN
+25,Funholding,finance,1991-01-01,2819.5,7227,United States,Golddex
+26,Ganjaflex,retail,1995-01-01,5158.71,17479,Japan,UNKNOWN
+27,Gekko & Co,retail,1990-01-01,2520.83,3502,United States,UNKNOWN
+28,Genco Pura Olive Oil Company,retail,2007-01-01,894.33,1635,Italy,UNKNOWN
+29,Globex Corporation,technolgy,2000-01-01,1223.72,2497,Norway,UNKNOWN
+30,Gogozoom,telecommunications,2007-01-01,86.68,187,United States,Sonron
+31,Golddex,finance,2008-01-01,52.5,165,United States,UNKNOWN
+32,Goodsilron,marketing,2000-01-01,2952.73,5107,United States,UNKNOWN
+33,Green-Plus,services,2003-01-01,692.19,1922,United States,UNKNOWN
+34,Groovestreet,retail,2003-01-01,223.8,299,United States,UNKNOWN
+35,Hatfan,services,1982-01-01,792.46,1299,United States,UNKNOWN
+36,Hottechi,technolgy,1997-01-01,8170.38,16499,Korea,UNKNOWN
+37,Initech,telecommunications,1994-01-01,6395.05,20275,United States,UNKNOWN
+38,Inity,marketing,1986-01-01,2403.58,8801,United States,UNKNOWN
+39,Isdom,medical,2002-01-01,3178.24,4540,United States,UNKNOWN
+40,Iselectrics,technolgy,2011-01-01,527.11,1428,United States,Acme Corporation
+41,J-Texon,retail,1989-01-01,1388.67,3583,United States,UNKNOWN
+42,Kan-code,software,1982-01-01,11698.03,34288,United States,UNKNOWN
+43,Kinnamplus,retail,2004-01-01,702.72,1831,United States,UNKNOWN
+44,Konex,technolgy,1980-01-01,7708.38,13756,United States,UNKNOWN
+45,Konmatfix,marketing,1985-01-01,375.43,1190,United States,UNKNOWN
+46,Labdrill,medical,1985-01-01,2741.37,9226,United States,UNKNOWN
+47,Lexiqvolax,medical,2004-01-01,1618.89,3889,United States,UNKNOWN
+48,Massive Dynamic,entertainment,1989-01-01,665.06,1095,United States,UNKNOWN
+49,Mathtouch,marketing,1984-01-01,3027.46,9516,Jordan,UNKNOWN
+50,Nam-zim,services,1987-01-01,405.59,1179,Brazil,Warephase
+51,Newex,services,1991-01-01,1012.72,3492,Germany,UNKNOWN
+52,Ontomedia,employment,1997-01-01,882.12,2769,United States,UNKNOWN
+53,Opentech,finance,1994-01-01,355.23,853,United States,UNKNOWN
+54,Plexzap,retail,2001-01-01,2437.85,4874,United States,UNKNOWN
+55,Plusstrip,entertainment,2002-01-01,349.81,315,United States,UNKNOWN
+56,Plussunin,retail,2003-01-01,1419.98,4018,United States,UNKNOWN
+57,Rangreen,technolgy,1987-01-01,2938.67,8775,Panama,UNKNOWN
+58,Rantouch,telecommunications,1994-01-01,1188.42,3015,United States,UNKNOWN
+59,Ron-tech,medical,1992-01-01,3922.42,6837,United States,UNKNOWN
+60,Rundofase,technolgy,1983-01-01,1008.06,1238,United States,UNKNOWN
+61,Scotfind,software,1996-01-01,6354.87,16780,United States,Bubba Gump
+62,Scottech,marketing,2012-01-01,45.39,100,United States,Inity
+63,Silis,medical,1994-01-01,2818.38,6290,United States,UNKNOWN
+64,Singletechno,retail,1996-01-01,2214.94,5374,United States,UNKNOWN
+65,Sonron,telecommunications,1999-01-01,1699.85,5108,United States,UNKNOWN
+66,Stanredtax,finance,1987-01-01,1698.2,3798,United States,UNKNOWN
+67,Statholdings,employment,1997-01-01,291.27,586,United States,UNKNOWN
+68,Streethex,retail,1988-01-01,1376.8,1165,Belgium,UNKNOWN
+69,Sumace,retail,2000-01-01,167.89,493,Romania,UNKNOWN
+70,Sunnamplex,marketing,2008-01-01,894.37,1593,Poland,UNKNOWN
+71,The New York Inquirer,medical,1996-01-01,439.21,792,United States,UNKNOWN
+72,Toughzap,retail,1995-01-01,332.43,799,United States,UNKNOWN
+73,Treequote,telecommunications,1988-01-01,5266.09,8595,United States,Sonron
+74,Umbrella Corporation,finance,1998-01-01,2022.14,5113,United States,UNKNOWN
+75,Vehement Capital Partners,finance,1993-01-01,646.1,883,United States,Golddex
+76,Warephase,services,1997-01-01,2041.73,5276,United States,UNKNOWN
+77,Xx-holding,finance,1993-01-01,7537.24,20293,United States,UNKNOWN
+78,Xx-zobam,entertainment,1989-01-01,3838.39,8274,United States,UNKNOWN
+79,Y-corporation,employment,1983-01-01,2871.35,9561,United States,UNKNOWN
+80,Yearin,retail,2005-01-01,2261.05,3851,United States,UNKNOWN
+81,Zathunicon,retail,2010-01-01,71.12,144,United States,UNKNOWN
+82,Zencorporation,technolgy,2011-01-01,40.79,142,China,UNKNOWN
+83,Zoomit,entertainment,1992-01-01,324.19,978,United States,UNKNOWN
+84,Zotware,software,1979-01-01,4478.47,13809,United States,UNKNOWN
+85,Zumgoity,medical,1984-01-01,441.08,1210,United States,UNKNOWN
